@@ -8,7 +8,7 @@ HashMapクラスを使って追加と削除。
 ```
 import java.util.HashMap;
 
-public class Sample37 {
+public class Hashmap2 {
 
 	public static void main(String[] args) {
 		HashMap<String, Integer> skills = new HashMap<String, Integer>();
@@ -57,5 +57,6 @@ null
 ## 開発環境
 | 開発ツール |  |
 |:-|:-|
+| OS | Windows10 |
 | 統合開発環境(IDE) | Eclipse 4.7.0 Oxygen |
 | 開発言語 | Java8 |
