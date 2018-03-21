@@ -25,12 +25,12 @@ public class Hashmap2 {
 
 		String skill = "攻撃力";
 		System.out.println(skills.get(skill));
-		       skill = "防御力";
+		skill = "防御力";
 		System.out.println(skills.get(skill));
 		skills.remove("魔法力");
-		       skill = "魔法力";
+		skill = "魔法力";
 		System.out.println(skills.get(skill));
-		       skill = "移動力";
+		skill = "移動力";
 		System.out.println(skills.get(skill));
 		System.out.println(skills.size());
 
